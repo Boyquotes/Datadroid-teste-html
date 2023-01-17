@@ -2,7 +2,7 @@
 Datadroid html executable to run in a github page.
 
 Test the game:
-  ##github-pages:
-    https://joaolucasviegas.github.io/Datadroid-teste-html/
-  ##itch.io:
-    https://garbagemonkey.itch.io/datadroid-early
+  ## github-pages:
+  <li> https://joaolucasviegas.github.io/Datadroid-teste-html/ </li>
+  ## itch.io:
+  <li> https://garbagemonkey.itch.io/datadroid-early </li>
